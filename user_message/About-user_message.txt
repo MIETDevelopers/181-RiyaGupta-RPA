@@ -1,0 +1,6 @@
+01-Message_Box.xaml
+-The purpose of message box is to give text output as a pop up. It give output for string data type only.
+
+02-Write_Line.xaml
+-The purpose of write line is to give text output in output panel of user interface of UiPath. In most cases, it is in string data type form.
+
